@@ -17,7 +17,7 @@ Explore my collection of Exploratory Data Analysis (EDA) projects, where I analy
 
 # Project Details
 1. Data Cleaning: The initial step involves cleaning up the dataset to prepare it for analysis. This includes handling missing values, removing duplicates, and ensuring data consistency.
-2. Data Analysis: The focus of the analysis is on marathon races that took place in the USA in the year 2020. Various aspects of the race data are explored, including participant demographics, race distances, race locations, and race timings.
+2. Data Analysis: The focus of the analysis is on the reverse osmosis data recorded and analyzed to get the relationship between variables for the maximum efficiency and the desired rate flow.
 3. Visualization: The insights derived from the data analysis are visually represented using Seaborn and other visualization libraries. This includes creating plots, charts, and graphs to effectively communicate the findings.
 4. ML Algorithm: applying machine learning algorithm to find certain trends and relationships between data and easy visualization.
    
