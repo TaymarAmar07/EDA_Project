@@ -4,9 +4,9 @@ Analysis of the Reverse Osmosis Data in  Chemical Engineering.
 Explore my collection of Exploratory Data Analysis (EDA) projects, where I analyze diverse datasets, create visualizations, and derive insights. Each project showcases my skills in data analysis and visualization. Dive into individual project folders for detailed code, visualizations, and key findings.
 
 # Python library used
--NumPy
--seaborn
--pandas
+1. NumPy
+2. seaborn
+3. pandas
 
 # Machine Learning 
 1. PCA
